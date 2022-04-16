@@ -1,5 +1,5 @@
 # TemperatureConversion
-App I made with SwiftUI. Converts Fehrenheit to Celsius and Celsius to Fehrenheit.
+A simple App I made with SwiftUI. Converts Fehrenheit to Celsius and Celsius to Fehrenheit.
 
 
 
